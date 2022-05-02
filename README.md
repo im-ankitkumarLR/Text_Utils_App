@@ -1,1 +1,1 @@
- https://stellular-horse-c6d877.netlify.app/
+https://famous-wisp-a19bfe.netlify.app/about
