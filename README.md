@@ -1,1 +1,1 @@
-https://famous-wisp-a19bfe.netlify.app/about
+https://jovial-basbousa-2e1017.netlify.app/
