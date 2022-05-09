@@ -18,6 +18,5 @@ const capatilization =(word)=>{
     props.alert && <div className="alert alert-success alert-dismissible fade show" role="alert">
 
   <strong>{capatilization(props.alert.typ)} </strong>:{props.alert.msg}
-</div>
-  )
+   )
 }
